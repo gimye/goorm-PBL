@@ -1,0 +1,45 @@
+.netflix-original-title{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.netflix-original-flex{
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start
+}
+
+.poster{
+    height : 200px;
+    width: 120px;
+    display: flex;
+    object-fit: cover;
+    flex-wrap: wrap;
+    margin: 20px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.poster:hover{
+    transform: scale(1.2);
+}
+
+
+.trend-title{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.trend-flex{
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start
+}
+
+

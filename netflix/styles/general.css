@@ -1,0 +1,12 @@
+body{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+    background-color: #181818;
+    color: white;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
