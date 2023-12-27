@@ -20,6 +20,8 @@ class UI {
             <span class="badge badge-success">Followers: ${user.followers}</span>
             <span class="badge badge-info">Following: ${user.following}</span>
             <br><br>
+            <img src="https://ghchart.rshah.org/${user.login}" />
+            <br><br>
             <ul class="list-group">
               <li class="list-group-item">Company: ${user.company}</li>
               <li class="list-group-item">Website/Blog: ${user.blog}</li>
