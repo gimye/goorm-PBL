@@ -24,3 +24,8 @@
     text-align: center;
     background-color: #ddd;
 }
+
+.cell.header.active{
+    background: lightblue;
+    color: white;
+}
